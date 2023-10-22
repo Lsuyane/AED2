@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "dados.h": "c",
+    "espaconave.h": "c",
+    "listaencadeada.h": "c",
+    "stdlib.h": "c",
+    "utilidade.h": "c",
+    "filadeprioridades.h": "c",
+    "listaderecursos.h": "c",
+    "leitordearquivo.h": "c",
+    "wchar.h": "c",
+    "string.h": "c",
+    "locale.h": "c",
+    "listadepassageiros.h": "c",
+    "interface.h": "c"
+  }
+}

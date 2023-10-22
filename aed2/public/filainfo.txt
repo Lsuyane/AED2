@@ -1,0 +1,47 @@
+# Este arquivo armazena uma fila de naves
+# Formato:
+#       n [PRIORIDADE]
+#       p [ID] [IDADE] [NOME]
+#      ...
+#       r [QUANTIDADE] [NOME]
+#      ...
+#
+#   
+# Argumentos:
+# O argumento 'n' indica o inicio de uma nave e deve ser seguido por um inteiro que representa sua prioridade
+# 
+# O argumento 'p' indica um único passageiro que pertence a última nave declarada e deve ser seguido por um inteiro que representa seu id, um inteiro que representa sua idade e uma string que representa seu nome
+#
+# ex:
+#       p 100, 18, "João Marcos"
+# 
+# O argumento 'r' indica um único recurso que pertence a última nave declarada e deve ser seguido por um inteiro que representa sua quantidade, e uma string que representa seu nome
+#
+# ex:
+#       p 100, 18, "João Marcos"
+# 
+
+n 1
+p 100, 15, "João Edson" "Planeta 165"
+p 2, 20, "Carlos Vinícius" "Planeta 445"
+r 250, "água com gás"
+r 500, "água"
+r 500, "gelo"
+
+n 2
+p 1, 62, "João Alberto" "Planeta X5"
+p 3, 36, "Aline Soares" "Planeta AB"
+p 15, 17, "Miguel Soasa" "Planeta 69"
+r 500, "arroz"
+r 257, "feijão"
+r 403, "carne bovina"
+r 671, "carne de frango"
+r 860, "poupa de fruta"
+
+n 3
+p 5, 16, "Benjamin Santos" "Planeta NOP"
+p 7, 19, "Marco Apolo" "Planeta ARK2"
+r 500, "combustível"
+r 400, "etanol"
+r 430, "diesel"
+r 130, "metanol"

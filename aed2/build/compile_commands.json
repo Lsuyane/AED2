@@ -1,0 +1,42 @@
+[
+{
+  "directory": "C:/Users/Kelthon/Projects/aed2/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/program.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\program.dir\\src\\dados.c.obj -c C:\\Users\\Kelthon\\Projects\\aed2\\src\\dados.c",
+  "file": "C:/Users/Kelthon/Projects/aed2/src/dados.c"
+},
+{
+  "directory": "C:/Users/Kelthon/Projects/aed2/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/program.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\program.dir\\src\\espaconave.c.obj -c C:\\Users\\Kelthon\\Projects\\aed2\\src\\espaconave.c",
+  "file": "C:/Users/Kelthon/Projects/aed2/src/espaconave.c"
+},
+{
+  "directory": "C:/Users/Kelthon/Projects/aed2/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/program.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\program.dir\\src\\filaDePrioridades.c.obj -c C:\\Users\\Kelthon\\Projects\\aed2\\src\\filaDePrioridades.c",
+  "file": "C:/Users/Kelthon/Projects/aed2/src/filaDePrioridades.c"
+},
+{
+  "directory": "C:/Users/Kelthon/Projects/aed2/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/program.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\program.dir\\src\\interface.c.obj -c C:\\Users\\Kelthon\\Projects\\aed2\\src\\interface.c",
+  "file": "C:/Users/Kelthon/Projects/aed2/src/interface.c"
+},
+{
+  "directory": "C:/Users/Kelthon/Projects/aed2/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/program.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\program.dir\\src\\leitorDeArquivo.c.obj -c C:\\Users\\Kelthon\\Projects\\aed2\\src\\leitorDeArquivo.c",
+  "file": "C:/Users/Kelthon/Projects/aed2/src/leitorDeArquivo.c"
+},
+{
+  "directory": "C:/Users/Kelthon/Projects/aed2/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/program.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\program.dir\\src\\listaDePassageiros.c.obj -c C:\\Users\\Kelthon\\Projects\\aed2\\src\\listaDePassageiros.c",
+  "file": "C:/Users/Kelthon/Projects/aed2/src/listaDePassageiros.c"
+},
+{
+  "directory": "C:/Users/Kelthon/Projects/aed2/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/program.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\program.dir\\src\\listaDeRecursos.c.obj -c C:\\Users\\Kelthon\\Projects\\aed2\\src\\listaDeRecursos.c",
+  "file": "C:/Users/Kelthon/Projects/aed2/src/listaDeRecursos.c"
+},
+{
+  "directory": "C:/Users/Kelthon/Projects/aed2/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/program.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\program.dir\\src\\main.c.obj -c C:\\Users\\Kelthon\\Projects\\aed2\\src\\main.c",
+  "file": "C:/Users/Kelthon/Projects/aed2/src/main.c"
+}
+]
